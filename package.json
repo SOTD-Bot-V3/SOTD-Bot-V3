@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/SOTD-Bot-V3/SOTD-Bot-V3/issues"
   },
-  "homepage": "https://github.com/SOTD-Bot-V3/SOTD-Bot-V3#readme"
+  "homepage": "https://github.com/SOTD-Bot-V3/SOTD-Bot-V3#readme",
+  "devDependencies": {
+    "eslint": "^8.45.0"
+  }
 }
