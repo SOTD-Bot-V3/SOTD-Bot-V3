@@ -1,0 +1,24 @@
+{
+  "name": "sotd-bot-v3",
+  "version": "1.0.0",
+  "description": "SOTD bot V3 -- the bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SOTD-Bot-V3/SOTD-Bot-V3.git"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "spotify"
+  ],
+  "author": "ComputerComa",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/SOTD-Bot-V3/SOTD-Bot-V3/issues"
+  },
+  "homepage": "https://github.com/SOTD-Bot-V3/SOTD-Bot-V3#readme"
+}
